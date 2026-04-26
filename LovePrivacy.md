@@ -1,6 +1,6 @@
 Privacy Policy 
 
-This Privacy Policy explains how information is collected, used and disclosed by DayMinder with respect to user’s access and use of our service through the application (Referred to below as “lovelove”).
+This Privacy Policy explains how information is collected, used and disclosed by lovelove with respect to user’s access and use of our service through the application (Referred to below as “lovelove”).
 1. Information collection
 
 When using DayMinder, we ask certain information from you:
@@ -21,4 +21,4 @@ Your information will not be shared with others and is only used internally for 
 Cookies are required on this Website. We use them to collect visitors preferences and thus to better optimize the user experience. Users can disable cookies in their own browser settings, but please note that you may not be able to access certain features on our Website as a result.
 4. Changes
 
-This Privacy Policy may be revised and modified at some time in the future. We will post on this page and notify you via official notifications or emails. Please check back periodically to keep informed of updates or changes to this Privacy Policy. By continuing to access and to use DayMinder, you are agreeing to be bound by the revised policy. 
+This Privacy Policy may be revised and modified at some time in the future. We will post on this page and notify you via official notifications or emails. Please check back periodically to keep informed of updates or changes to this Privacy Policy. By continuing to access and to use lovelove, you are agreeing to be bound by the revised policy. 
